@@ -1,0 +1,240 @@
+a {
+   font-size: 14px;
+}
+
+.basePage {
+   background-color: #FFDD88;
+}
+
+.grosTitre {
+
+   background-color: #FFDD88;
+   color: #F50033;
+   font-size: 40px;
+   font-family: "Architects Daughter";
+   text-align: center;
+
+}
+
+.moyenTitre {
+
+   background-color: #FFDD88;
+   color: #F50033;
+   font-size: 20px;
+   font-family: "Architects Daughter";
+   text-align: center;
+
+}
+
+.page {
+
+   text-align: justify;
+   margin-left: 120px;
+   margin-right: 120px;
+   font-size: 16px;
+
+}
+
+.petitTitre {
+
+   font-family: "Architects Daughter";
+   font-size: 20px;
+   color: #F50033;
+
+}
+
+.texteAccueil {
+
+   background-color: #FFDD88;
+   color: #000099;
+
+}
+
+td,tr,div,p {
+   font: 11px Arial, Helvetica, sans-serif;
+}
+
+table.tabQuadrille td {
+
+   border-bottom: 1px solid #777777;
+   border-right: 1px solid #777777;
+   border-left: 1px solid #777777;
+   border-top: 1px #777777;
+   padding-left: 3px;
+
+}
+
+tr.enTeteTabQuad {
+
+   background-image: url('../images/xpBarre.jpg');
+   background-color: #FFFFC0;
+   color: black;
+   height: 21px;
+   text-align: center;
+
+}
+
+tr.enTete2TabQuad {
+
+   background-color: #FFFFC0;
+   color: black;
+   text-align: left;
+
+}
+
+tr.ligneTabQuad {
+
+   background-color: #FFFFE0;
+   color: black;
+   text-align: left;
+
+}
+
+table.tabNonQuadrille {
+
+   background-color: #FFFFC0;
+   color: black;
+   border-bottom: 1px solid #777777;
+   border-right: 1px solid #777777;
+   border-left: 1px solid #777777;
+   border-top: 1px #777777;
+
+}
+
+tr.enTeteTabNonQuad td {
+
+   background-image: url('../images/xpBarre.jpg');
+   background-color: #FFFFC0;
+   color: black;
+   height: 21px;
+   text-align: center;
+   border-bottom: 1px solid #777777;
+
+}
+
+tr.ligneTabNonQuad td {
+
+   background-color: #FFFFE0;
+   color: black;
+   text-align: left;
+   height: 28px;
+   padding-left: 3px;
+
+}
+
+.msgErreur {
+
+   background-color: #FFDD88;
+   color: #3366CC;
+   font-size: 14px;
+
+}
+
+.erreur {
+
+   background-color: white;
+   color: #FF0000;
+
+}
+
+td.absenceOffre {
+
+   background-color: #EEEEEE;
+   color: black;
+   width: 30px;
+   text-align: center;
+
+}
+
+td.reserveSiLien {
+
+   background-color: #FFFFFF;
+   color: black;
+   width: 30px;
+   text-align: center;
+
+}
+
+td.reserve {
+
+   background-color: #FFFF80;
+   color: black;
+   width: 30px;
+   text-align: center;
+
+}
+
+td.libre {
+
+   background-color: #99FFCC;
+   color: black;
+   width: 30px;
+   text-align: center;
+
+}
+
+.menus {
+
+   font-family: "Architects Daughter";
+   list-style-type: none;
+   margin-left: 40px;
+   text-align: center;
+
+}
+
+.menus li {
+
+   background-color: #FFDD88;
+   color: #F50033;
+   float: left;
+   border: solid 2px white;
+   width: 18%;
+   height: 5%;
+
+}
+
+.menus .ongletOuvertPrem { 
+
+   border-bottom: solid 2px #FFDD88;
+   width: 20%;
+
+}
+
+.menus .ongletOuvert { 
+
+   border-bottom: solid 2px #FFDD88;
+   border-left: solid 2px #FFDD88;
+   width: 20%;
+
+}
+
+.menus .ongletPrem { 
+
+   background-color: #FFCC50;
+   color: #F50033;
+
+}
+
+.menus .ongletPrem a { 
+
+   background-color: #FFCC50;
+   color: #F50033;
+   text-decoration: none;
+
+}
+
+.menus .onglet { 
+
+   background-color: #FFCC50;
+   color: #F50033;
+   border-left: solid 2px #FFCC50;
+
+}
+
+.menus .onglet a { 
+
+   background-color: #FFCC50;
+   color: #F50033;
+   text-decoration: none; 
+
+}
